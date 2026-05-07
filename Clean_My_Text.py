@@ -3,7 +3,7 @@ import streamlit as st
 import string
 import re
 import unicodedata
-import contractions
+# import contractions
 import emoji
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize

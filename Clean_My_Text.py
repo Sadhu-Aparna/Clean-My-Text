@@ -1,10 +1,10 @@
 # Complete Text Cleaning (Multiple techniques comined)
 import streamlit as st
-import string
+# import string
 import re
-import unicodedata
+# import unicodedata
 # import contractions
-import emoji
+# import emoji
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
